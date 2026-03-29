@@ -1,2 +1,1 @@
-# house-Price-predictor-
-this is an ML project for house price prediction
+# House_price_Pred
