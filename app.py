@@ -398,10 +398,10 @@ if st.sidebar.button("🚀 Predict Price"):
         
         report = f"""
 ╔════════════════════════════════════════════════════════════╗
-║           AI REAL ESTATE PRICE PREDICTION REPORT           ║
+║           AI House Price Predictor                         ║             
 ╚════════════════════════════════════════════════════════════╝
 
-📍 LOCATION
+📍 LOCATION   
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 City: {city}
 City Tier: {'Tier 1' if city in tier_1 else 'Tier 2' if city in tier_2 else 'Tier 3'}
