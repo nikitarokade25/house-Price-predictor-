@@ -62,7 +62,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<div class="title">⚡ AI House Price Predictor</div>', unsafe_allow_html=True)
+st.markdown('<div class="title"> House Price Predictor</div>', unsafe_allow_html=True)
 
 # ================= SIDEBAR =================
 st.sidebar.header("📥 Property Details")
